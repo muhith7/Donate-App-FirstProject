@@ -88,7 +88,7 @@ fun DefaultPreview() {
             
         }
         Column {
-           incrementNumber()
+           Home()
         }
 
     }

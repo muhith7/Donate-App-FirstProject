@@ -47,7 +47,7 @@ fun Home (){
                 ImageComponent(img = R.drawable.plugin,
                     modifier = Modifier
                         .width(60.dp)
-                        .height(30.dp))
+                        .height(300.dp))
 
                 Spacer(modifier = Modifier.width(10.dp))
 
